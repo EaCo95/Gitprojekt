@@ -5,44 +5,44 @@ print(MenyA)
 
 
 
-# print("*** Välkommen! ***")
+print("*** Välkommen! ***")
 
-# def MenyA():
+def MenyA():
     
-#     Kontonummer = "2. Logga in"
+    Kontonummer = "2. Logga in"
        
-#     while True:    
+    while True:    
 
-#         print("1. Skapa konto")
-#         print("2. Logga in")
-#         print("3. Avsluta")
+        print("1. Skapa konto")
+        print("2. Logga in")
+        print("3. Avsluta")
 
-#         action = input("Vad vill du göra?")
+        action = input("Vad vill du göra?")
 
-#         if action == "1":
+        if action == "1":
               
-#                 print("Input ange kontonummer")
-#                 print("Om redan taget" "Felmeddelande")
-#                 print("Annars skapa och tillbaka till meny A")
+                print("Input ange kontonummer")
+                print("Om redan taget" "Felmeddelande")
+                print("Annars skapa och tillbaka till meny A")
 
-#         if action == "2":
+        if action == "2":
                 
-#                 input("Ange kontonummer: ")
+                input("Ange kontonummer: ")
 
-#         if Kontonummer == True:
+        if Kontonummer == True:
 
-#               print("OK och gå till MenyB")
+              print("OK och gå till MenyB")
 
-#         if action == "3":
+        if action == "3":
               
-#               break
+              break
 
                 
 
                 
-# - Input ange kontonummer
-# - Om ej finns "Felmeddelande"
-# - Annars OK och gå till meny B
+- Input ange kontonummer
+- Om ej finns "Felmeddelande"
+- Annars OK och gå till meny B
 
 
 
@@ -51,7 +51,7 @@ print(MenyA)
 
 
 
-       # def MenyB():
+       def MenyB():
 
 
 
@@ -86,18 +86,18 @@ else:
     
 if action == "2":
         nummer = 1 
-# print("Meny A") 
-#       "1 Skapa konto"
-#       "2 Logga in"
-#       "3 Avsluta"
+print("Meny A") 
+      "1 Skapa konto"
+      "2 Logga in"
+      "3 Avsluta"
 
-# print("Meny B")
-
-
-
-
-# print("Meny C")
+print("Meny B")
 
 
 
-# print("Meny D")
+
+print("Meny C")
+
+
+
+print("Meny D")

@@ -23,3 +23,7 @@ def CalculateTaxesOnSalary (Månadslön):
 Månadslön = int(input("Ange din Månadslön: "))
 Månadslön = CalculateTaxesOnSalary(Månadslön)
 print(f"Din skatt blir {Månadslön}")
+
+if time >= 1600 and time >= 1700
+return Price * 0.8
+

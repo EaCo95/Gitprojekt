@@ -32,8 +32,8 @@ unittest.main()
 import unittest
 from ispalindrom import IsPalindrom
 
-class Palin:
-    def test_when_palindrom_then_should_return_true(self):
+class PalindromTests(unittest.TestCase):
+    def test_when_palindrom_then_should_return_true(self.unittest):
     
     PalindromTests(unittest.TestCase):
         IsPalindrom(input)
@@ -43,6 +43,12 @@ class Palin:
             backwards = part + backwards
 
         return backwards == s
+
+
+    def test_when_not_palindrom_then_should_return_false(self.unittest):
+
+
+    def test_when_space_in_palindrom_should_return_true
 
     while True:
         print(IsPalindrom(input("Skriv in: ")))
