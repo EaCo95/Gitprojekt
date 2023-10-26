@@ -1,0 +1,31 @@
+10:44:40
+_________________________________
+10:44:40
+C Code
+Testsvar: Samsung
+pass
+_______________
+10:44:40
+Pyton
+Testsvar: Samsung
+pass
+_______________
+10:44:40
+Java
+Testsvar: Samsung
+pass
+_______________
+10:44:43
+_________________________________
+10:44:43
+C Code
+Testsvar: Nokia
+pass
+_______________
+10:44:43
+Pyton
+Testsvar: Nokia
+pass
+_______________
+10:44:43
+Java

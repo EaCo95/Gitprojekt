@@ -1,0 +1,57 @@
+12:49:34
+1698317374
+_________________________________
+12:49:34
+C Code
+Testsvar: Samsung
+pass
+12:49:34
+1698317374
+_________________________________
+12:49:34
+C Code
+Testsvar: Nokia
+pass
+12:49:34
+1698317374
+_________________________________
+12:49:34
+C Code
+Testsvar: LG
+pass
+12:49:34
+1698317374
+_________________________________
+12:49:34
+C Code
+Testsvar: Symphony
+pass
+12:49:34
+1698317374
+_________________________________
+12:49:34
+C Code
+Testsvar: iphone
+pass
+_______________
+12:49:34
+Pyton
+Testsvar: Samsung
+FAIL
+_______________
+12:49:34
+Pyton
+Testsvar: Nokia
+FAIL
+_______________
+12:49:34
+Java
+Testsvar: Samsung
+FAIL
+1698317377
+_______________
+Test Run: 0
+Test Passed: 5
+Test Failed: 1/home/tuc1/TesCCode/LogofPhones/
+_______________
+EOF

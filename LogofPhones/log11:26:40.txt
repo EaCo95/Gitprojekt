@@ -1,0 +1,90 @@
+11:26:40
+_________________________________
+11:26:40
+C Code
+Testsvar: Samsung
+pass
+_______________
+11:26:40
+Pyton
+Testsvar: Samsung
+pass
+_______________
+11:26:40
+Java
+Testsvar: Samsung
+pass
+_______________
+11:26:43
+_________________________________
+11:26:43
+C Code
+Testsvar: Nokia
+pass
+_______________
+11:26:43
+Pyton
+Testsvar: Nokia
+pass
+_______________
+11:26:43
+Java
+Testsvar: Nokia
+pass
+_______________
+11:26:46
+_________________________________
+11:26:46
+C Code
+Testsvar: LG
+pass
+_______________
+11:26:46
+Pyton
+Testsvar: LG
+pass
+_______________
+11:26:46
+Java
+Testsvar: LG
+pass
+_______________
+11:26:49
+_________________________________
+11:26:49
+C Code
+Testsvar: Symphony
+pass
+_______________
+11:26:49
+Pyton
+Testsvar: Symphony
+pass
+_______________
+11:26:49
+Java
+Testsvar: Symphony
+pass
+_______________
+11:26:52
+_________________________________
+11:26:52
+C Code
+Testsvar: iphone
+pass
+_______________
+11:26:52
+Pyton
+Testsvar: iphone
+pass
+_______________
+11:26:52
+Java
+Testsvar: iphone
+pass
+_______________
+Test Run: 15
+Test Passed: 15
+Test Failed: 0
+_______________
+EOF

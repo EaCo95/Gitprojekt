@@ -1,0 +1,192 @@
+09:41:20
+_________________________________
+09:41:20
+C Code
+Too many arguments supplied.
+FAIL
+_______________
+09:41:20
+Pyton
+Testsvar: for
+FAIL
+_______________
+09:41:20
+Java
+Testsvar: for
+FAIL
+_______________
+09:41:23
+_________________________________
+09:41:23
+C Code
+Testsvar: print(i)
+pass
+_______________
+09:41:23
+Pyton
+Testsvar: print(i)
+pass
+_______________
+09:41:23
+Java
+Testsvar: print(i)
+pass
+_______________
+09:41:25
+_________________________________
+09:41:25
+C Code
+Testsvar: break
+pass
+_______________
+09:41:25
+Pyton
+Testsvar: break
+pass
+_______________
+09:41:25
+Java
+Testsvar: break
+pass
+_______________
+09:41:28
+_________________________________
+09:41:28
+C Code
+One argument expected.
+FAIL
+_______________
+09:41:28
+Pyton
+
+FAIL
+_______________
+09:41:28
+Java
+One argument expected.
+FAIL
+_______________
+09:41:31
+_________________________________
+09:41:31
+C Code
+Too many arguments supplied.
+FAIL
+_______________
+09:41:31
+Pyton
+Testsvar: for
+FAIL
+_______________
+09:41:31
+Java
+Testsvar: for
+FAIL
+_______________
+09:41:34
+_________________________________
+09:41:34
+C Code
+Testsvar: print(o)
+pass
+_______________
+09:41:34
+Pyton
+Testsvar: print(o)
+pass
+_______________
+09:41:34
+Java
+Testsvar: print(o)
+pass
+_______________
+09:41:38
+_________________________________
+09:41:38
+C Code
+Testsvar: break
+pass
+_______________
+09:41:38
+Pyton
+Testsvar: break
+pass
+_______________
+09:41:38
+Java
+Testsvar: break
+pass
+_______________
+09:41:41
+_________________________________
+09:41:41
+C Code
+One argument expected.
+FAIL
+_______________
+09:41:41
+Pyton
+
+FAIL
+_______________
+09:41:41
+Java
+One argument expected.
+FAIL
+_______________
+09:41:43
+_________________________________
+09:41:43
+C Code
+Too many arguments supplied.
+FAIL
+_______________
+09:41:43
+Pyton
+Testsvar: for
+FAIL
+_______________
+09:41:43
+Java
+Testsvar: for
+FAIL
+_______________
+09:41:46
+_________________________________
+09:41:46
+C Code
+Testsvar: print(k)
+pass
+_______________
+09:41:46
+Pyton
+Testsvar: print(k)
+pass
+_______________
+09:41:46
+Java
+Testsvar: print(k)
+pass
+_______________
+09:41:48
+_________________________________
+09:41:48
+C Code
+Testsvar: break
+pass
+_______________
+09:41:48
+Pyton
+Testsvar: break
+pass
+_______________
+09:41:48
+Java
+Testsvar: break
+pass
+_______________
+Test Run: 33
+Test Passed: 18
+Test Failed: 15
+_______________
+EOF

@@ -1,0 +1,141 @@
+09:43:39
+_________________________________
+09:43:39
+C Code
+Too many arguments supplied.
+FAIL
+_______________
+09:43:39
+Pyton
+Testsvar: for
+FAIL
+_______________
+09:43:39
+Java
+Testsvar: for
+FAIL
+_______________
+09:43:42
+_________________________________
+09:43:42
+C Code
+Testsvar: print(i)
+pass
+_______________
+09:43:42
+Pyton
+Testsvar: print(i)
+pass
+_______________
+09:43:42
+Java
+Testsvar: print(i)
+pass
+_______________
+09:43:44
+_________________________________
+09:43:44
+C Code
+One argument expected.
+FAIL
+_______________
+09:43:44
+Pyton
+
+FAIL
+_______________
+09:43:44
+Java
+One argument expected.
+FAIL
+_______________
+09:43:47
+_________________________________
+09:43:47
+C Code
+Too many arguments supplied.
+FAIL
+_______________
+09:43:47
+Pyton
+Testsvar: for
+FAIL
+_______________
+09:43:47
+Java
+Testsvar: for
+FAIL
+_______________
+09:43:49
+_________________________________
+09:43:49
+C Code
+Testsvar: print(o)
+pass
+_______________
+09:43:49
+Pyton
+Testsvar: print(o)
+pass
+_______________
+09:43:49
+Java
+Testsvar: print(o)
+pass
+_______________
+09:43:52
+_________________________________
+09:43:52
+C Code
+One argument expected.
+FAIL
+_______________
+09:43:52
+Pyton
+
+FAIL
+_______________
+09:43:52
+Java
+One argument expected.
+FAIL
+_______________
+09:43:54
+_________________________________
+09:43:54
+C Code
+Too many arguments supplied.
+FAIL
+_______________
+09:43:54
+Pyton
+Testsvar: for
+FAIL
+_______________
+09:43:54
+Java
+Testsvar: for
+FAIL
+_______________
+09:43:57
+_________________________________
+09:43:57
+C Code
+Testsvar: print(k)
+pass
+_______________
+09:43:57
+Pyton
+Testsvar: print(k)
+pass
+_______________
+09:43:57
+Java
+Testsvar: print(k)
+pass
+_______________
+Test Run: 24
+Test Passed: 9
+Test Failed: 15
+_______________
+EOF
